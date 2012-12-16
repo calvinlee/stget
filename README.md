@@ -1,4 +1,5 @@
 stget
 =====
 
-music downloader from songtaste.com
+Small script helps downloading tracks from songtaste.com.
+
